@@ -6,9 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To Do App</title>
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
-    
     <link href="css/font-awesome.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
     <div class="container">
@@ -16,30 +15,27 @@
         <!-- Top Content -->
         <div class="header">
             <div class="clear">
-                <i class="fas fa-address-book"></i>
-                <i class="fa fa-refresh"></i>
-                
+                <i class="fa fa-refresh"></i>            
             </div>
-            <div></div>
+            <div id="date"></div>
         </div>
 
         <!-- Middle Content -->
         <div class="content">
             <ul id="list">
-                <li class="item">
-                    <i class="fa fa-circle-thin complete"></i>
-                    <p class="text">Drink Coffe</p>
-                    <i class="fa fa-trash-o delete"></i>
-                </li>
+                <!-- Js content here -->
+
+                
             </ul>
-        
+        </div>  
+
         <!-- Bottom content input -->
-            <div class="add-item">
+            <div class="add-to-do">
                 <i class="fa fa-plus-circle"></i>
                 <input type="text" id="input" placeholder="Add a to-do">
             </div>
-        </div>    
     </div>
     
 </body>
+<script src="script/app.js"></script>
 </html>

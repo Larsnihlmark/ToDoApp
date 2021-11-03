@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: azure;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+/* All contain */
+.container{
+    padding: 10px;
+    width: 380px;
+    margin: 0 auto;
+}
+
+/* top contain */
+.header{
+    width: 380px;
+    height: 200px;
+    background-color: burlywood;
+    border-radius: 15px 15px 0 0;
+
+}
+.clear{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+
+}
+
+/* Middle content */
+.content{
+    width:380px;
+    height: 350px;
+    max-height:350px;
+    background-color: #FFF;
+    overflow: auto;
+}
+
+/* Bottom add item */
+.add-item{
+    position: relative;
+    width: 360px;
+    height:40px;
+    background-color: #FFF;
+    padding: 10px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+}

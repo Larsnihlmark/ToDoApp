@@ -2,7 +2,7 @@
 
 To do app with plain javascript and css. Project to inspired to make it look like phone app.
 
-# # [DEMO](https://larsnihlmark.github.io/ToDoApp/)
+# [DEMO](https://larsnihlmark.github.io/ToDoApp/)
 
 
 ## Deployment

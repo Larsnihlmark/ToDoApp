@@ -1,8 +1,8 @@
 # ToDoApp
 
-To do app with plain javascript
+To do app with plain javascript and css. Project to inspired to make it look like phone app.
 
-# [Demo]
+# # [DEMO](https://larsnihlmark.github.io/ToDoApp/)
 
 
 ## Deployment
